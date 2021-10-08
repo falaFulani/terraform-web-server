@@ -12,10 +12,10 @@
 8. Security group allowing trafic from port 22, 80 and 443
 9. Ubuntu instance with apache2 installed.
 
+#To Run
+Ensure you fill in the Access and Secret keys on line 3 and 4
 
-#To Run 
-
-Run the following commands 
+Run the following commands
 
 1. terraform plan (list all items to be created)
 2. terraform apply (to apply the plan)
